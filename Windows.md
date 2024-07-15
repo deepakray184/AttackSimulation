@@ -1,6 +1,13 @@
 # Command lines for MDE
 
-Below are some of the command lines that can be used to evaluate MDE (Microsoft defender for Endpoint)
+Below are some of the command lines that can be used to evaluate MDE (Microsoft defender for Endpoint).
+
+| Name  | Command               |
+|----------|---------------------------|
+| Clean Windows Event logs | wevtutil cl system , wevtutil cl application, wevtutil cl security   |
+| command2 | Description of command2   |
+| command3 | Description of command3   |
+
 
 
 
